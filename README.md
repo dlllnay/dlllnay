@@ -69,5 +69,4 @@ Veritabanı yapısını gösteren ilişkisel diyagram:
 
 ## 🧑‍💻 Geliştiriciler
 - Dolunay Aksoy  
-- Şükran Başaran  
-- Barkın Kanbur  
+- Şükran Başaran
